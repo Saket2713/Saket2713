@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Saket2713
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning computer sciece
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Uber Apllication / Zomato Application
 - 📫 How to reach me saketfirake02@gmail.com
 
 <!---
